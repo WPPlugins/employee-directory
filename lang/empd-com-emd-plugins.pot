@@ -1,0 +1,1218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-05-03T19:02:01-04:00\n"
+"POT-Creation-Date: 2017-05-03T19:02:01-04:00\n"
+
+#: ./employee-directory/assets/ext/edd/EDD_SL_Plugin_Updater.php:196
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: ./employee-directory/assets/ext/edd/EDD_SL_Plugin_Updater.php:204
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s or %5$supdate now%6$s."
+msgstr ""
+
+#: ./employee-directory/assets/ext/edd/EDD_SL_Plugin_Updater.php:358
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: ./employee-directory/assets/ext/edd/EDD_SL_Plugin_Updater.php:358
+msgid "Error"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/field.php:234
+msgid "+ Add more"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:18
+msgid "Done"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:19
+msgid "Prev"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:20
+msgid "Next"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:21
+msgid "Today"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "January"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "February"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "March"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "April"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "May"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "June"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "July"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "August"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "September"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "October"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "November"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "December"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Jan"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Feb"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Mar"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Apr"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Jun"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Jul"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Aug"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Sep"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Oct"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Nov"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Dec"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Sunday"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Monday"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Tuesday"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Wednesday"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Thursday"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Friday"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Saturday"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Sun"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Mon"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Tue"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Wed"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Thu"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Fri"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Sat"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Su"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Mo"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Tu"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "We"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Th"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Fr"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Sa"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:27
+msgid "Wk"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/datetime.php:33
+msgid "Choose Time"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/datetime.php:34
+msgid "Time"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/datetime.php:35
+msgid "Hour"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/datetime.php:36
+msgid "Minute"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/datetime.php:37
+msgid "Second"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/datetime.php:38
+msgid "Millisecond"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/datetime.php:39
+msgid "Time Zone"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/datetime.php:40
+msgid "Now"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/file-advanced.php:64
+msgctxt "file upload"
+msgid "Select or Upload Files"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/file-advanced.php:100
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/file-advanced.php:101
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/file.php:19
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/file.php:20
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/file.php:83
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/file.php:84
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/image-advanced.php:69
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/image-advanced.php:105
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/image-advanced.php:106
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/image.php:70
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/image.php:71
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/map.php:53
+msgid "Find Address"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/oembed.php:54
+msgid "Embed HTML not available."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/oembed.php:76
+msgid "Preview"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/plupload-image.php:102
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/plupload-image.php:103
+msgctxt "image upload"
+msgid "or"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/plupload-image.php:104
+msgctxt "image upload"
+msgid "Select Files"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/plupload-image.php:179
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/post.php:52
+msgid "Post"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/post.php:66
+msgid "Select a %s"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/user.php:54
+msgid "User"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:115
+msgid "This field is required."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:116
+msgid "Please fix this field."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:117
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:118
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:119
+msgid "Please enter a valid date."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:120
+msgid "Please enter a valid date ( ISO )"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:121
+msgid "Please enter a valid number."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:122
+msgid "Please enter only digits."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:123
+msgid "Please enter a valid credit card number."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:124
+msgid "Please enter the same value again."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:125
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:126
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:127
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:128
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:129
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:130
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:283
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ./employee-directory/assets/ext/zebraform/languages/english.php:11
+msgid "Clear"
+msgstr ""
+
+#: ./employee-directory/assets/ext/zebraform/languages/english.php:12
+msgid "There was a problem with your submission!<br>Possible causes may be that the submission has taken too long, or it represents a duplicate request.<br>Please try again."
+msgstr ""
+
+#: ./employee-directory/assets/ext/zebraform/languages/english.php:17
+msgid "Get a new code"
+msgstr ""
+
+#: ./employee-directory/assets/ext/zebraform/languages/english.php:18
+msgid "Other..."
+msgstr ""
+
+#: ./employee-directory/assets/ext/zebraform/languages/english.php:19
+msgid "- select -"
+msgstr ""
+
+#: ./employee-directory/assets/ext/zebraform/languages/english.php:20
+msgid "Possible spam attempt detected. The posted form data was rejected."
+msgstr ""
+
+#: ./employee-directory/includes/admin/license-functions.php:28
+msgid "Please enter and activate your <b>license keys</b>."
+msgstr ""
+
+#: ./employee-directory/includes/admin/license-functions.php:79
+msgid "Deactivate License"
+msgstr ""
+
+#: ./employee-directory/includes/admin/license-functions.php:83
+msgid "Activate License"
+msgstr ""
+
+#: ./employee-directory/includes/admin/license-functions.php:94
+msgid "Error:"
+msgstr ""
+
+#: ./employee-directory/includes/admin/license-functions.php:208
+#: ./employee-directory/includes/admin/license-functions.php:242
+#: ./employee-directory/includes/admin/license-functions.php:283
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: ./employee-directory/includes/admin/license-functions.php:220
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: ./employee-directory/includes/admin/license-functions.php:225
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: ./employee-directory/includes/admin/license-functions.php:228
+msgid "Invalid license."
+msgstr ""
+
+#: ./employee-directory/includes/admin/license-functions.php:232
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: ./employee-directory/includes/admin/license-functions.php:235
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: ./employee-directory/includes/admin/license-functions.php:239
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: ./employee-directory/includes/admin/license-functions.php:349
+msgid "Thanks for installing %s. Please <a href=\"%s\">activate your license key</a> before start using."
+msgstr ""
+
+#: ./employee-directory/includes/admin/license-functions.php:352
+msgid "Please notify the site administrator to activate %s license."
+msgstr ""
+
+#: ./employee-directory/includes/admin/license-functions.php:357
+msgid "You have invalid or expired license for %s. Please <a href=\"%s\">go to licenses page</a> to correct this issue."
+msgstr ""
+
+#: ./employee-directory/includes/admin/license-functions.php:360
+msgid "Please notify the site administrator to activate expired or invalid %s license."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-forms.php:20
+msgid "Forms"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-forms.php:122
+msgid "Use the section below to show or hide corresponding form elements. Size column refers to the form elements length relative to the other elements in the same row. Total element size in each row can not exceed 12 units. When you hide or show an element you may adjust sizes of the other elements in the same row. The form elements which are in the same row are color coded."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-forms.php:126
+msgid "Error Message"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-forms.php:126
+msgid "Success Mesage"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-forms.php:126
+msgid "No Access Message"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-forms.php:126
+msgid "No Result Message"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-forms.php:198
+msgid "Show %s"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-forms.php:232
+msgid "Show Captcha"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-forms.php:234
+msgid "Never Show"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-forms.php:235
+msgid "Always Show"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-forms.php:236
+msgid "Visitors Only"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-forms.php:253
+msgid "CSRF Check"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-forms.php:258
+msgid "Enables Cross-site request forgery protection when selected."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-forms.php:266
+msgid "Show Register / Login Form"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-forms.php:268
+msgid "None"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-forms.php:269
+msgid "Registration and Login Forms"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-forms.php:270
+msgid "Login Form only"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-forms.php:279
+msgid "Displays or hides registration and login forms on this form for non-logged-in users."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-forms.php:298
+msgid "The unique form elements are disabled however you can change their sizes."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-globs.php:19
+msgid "Global"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-globs.php:55
+msgid "%s is required."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-globs.php:136
+msgid "Frontend Map Settings"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-globs.php:137
+msgid "Width"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-globs.php:137
+msgid "Sets the map width.You can use '%' or 'px'. Default is 100%."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-globs.php:138
+msgid "Height"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-globs.php:138
+msgid "Sets the map height. You can use 'px'. Default is 480px."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-globs.php:139
+msgid "Zoom"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-globs.php:148
+msgid "Type"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-globs.php:158
+msgid "Marker"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-globs.php:159
+msgid "Marker Title"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-globs.php:159
+msgid "Sets the marker title when hover."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-globs.php:160
+msgid "Info Window"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-globs.php:160
+msgid "Sets the content of the info box. You can use html tags."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-globs.php:161
+msgid "Display Info Window on Page Load"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-globs.php:162
+msgid "You can drag and drop the marker to specify the exact location."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-misc.php:17
+msgid "Misc"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-misc.php:63
+msgid "Google Maps API Key"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-misc.php:70
+msgid "Google requires api key to access google map service. By default we provide a complimentary key. Get your own google maps api key to avoid service interruptions"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-misc.php:74
+msgid "Disable Bootstrap CSS"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-misc.php:84
+msgid "Disables loading of Bootstrap stylesheet in plugin related pages when checked. You may need to disable it if your theme already uses Bootstrap based stylesheet."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-misc.php:86
+msgid "Disable Bootstrap JS"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-misc.php:96
+msgid "Disables loading of Bootstrap JavaScript in plugin related pages when checked. You may need to disable it if your theme already uses Bootstrap based JavaScript."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-misc.php:100
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-misc.php:105
+msgid "Only Message"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-misc.php:107
+msgid "Only Login Form"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions-misc.php:116
+msgid "Display the registration and login forms on the pages non-logged-in users don't have access to."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:28
+msgid "Entities"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:44
+msgid "Taxonomies"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:47
+msgid "Tools"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:50
+msgid "Settings Saved."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:130
+#: ./employee-directory/includes/admin/settings-functions.php:595
+msgid "Base slug"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:133
+msgid "Sets the custom base slug for single and archive %s. After you update,  flush the rewrite rules by going to the Permalink Settings page. This works only if post name based permalink structure is selected."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:135
+msgid "Single template"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:139
+#: ./employee-directory/includes/admin/settings-functions.php:604
+msgid "Right Sidebar"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:139
+#: ./employee-directory/includes/admin/settings-functions.php:604
+msgid "Left Sidebar"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:139
+#: ./employee-directory/includes/admin/settings-functions.php:604
+msgid "Full Width"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:147
+msgid "Sets the template for single %s."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:149
+msgid "Hide previous next links"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:156
+msgid "Hides the previous and next %s links on the frontend for single %s."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:160
+msgid "Archive template"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:171
+msgid "Sets the template for archive %s."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:173
+#: ./employee-directory/includes/admin/settings-functions.php:614
+msgid "Hide page navigation"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:180
+msgid "Hides the page navigation links on the frontend for archive %s."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:186
+#: ./employee-directory/includes/admin/settings-functions.php:192
+#: ./employee-directory/includes/admin/settings-functions.php:227
+#: ./employee-directory/includes/admin/settings-functions.php:233
+#: ./employee-directory/includes/admin/settings-functions.php:239
+#: ./employee-directory/includes/admin/settings-functions.php:311
+#: ./employee-directory/includes/admin/settings-functions.php:335
+#: ./employee-directory/includes/admin/settings-functions.php:580
+msgid "Enable"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:187
+#: ./employee-directory/includes/admin/settings-functions.php:193
+#: ./employee-directory/includes/admin/settings-functions.php:228
+#: ./employee-directory/includes/admin/settings-functions.php:234
+#: ./employee-directory/includes/admin/settings-functions.php:312
+#: ./employee-directory/includes/admin/settings-functions.php:336
+#: ./employee-directory/includes/admin/settings-functions.php:581
+msgid "Disable"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:188
+#: ./employee-directory/includes/admin/settings-functions.php:235
+#: ./employee-directory/includes/admin/settings-functions.php:240
+#: ./employee-directory/includes/admin/settings-functions.php:313
+#: ./employee-directory/includes/admin/settings-functions.php:337
+#: ./employee-directory/includes/admin/settings-functions.php:582
+msgid "Hide on FrontEnd Pages"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:211
+msgid "Featured Image"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:256
+msgid "Attributes"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:258
+msgid "Enable: Display this attribute on everywhere</br>Disable: Remove this attribute from everywhere</br>Hide on FrontEnd Pages: This attribute is still enabled on admin area. If you want to hide this attribute on the frontend forms go to Forms tab."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:272
+msgid "Hide custom fields"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:281
+msgid "Check the custom fields you would like to hide on the frontend."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:304
+msgid "Relationships"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:306
+msgid "Enable: Display this relationship on everywhere</br>Disable: Remove this relationship from everywhere</br>Hide on FrontEnd Pages: This relationship is still enabled on admin area. If you want to hide this relationship on the frontend forms go to Forms tab."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:328
+msgid "Relationship attributes"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:330
+msgid "Enable: Display this relationship attribute on everywhere</br>Disable: Remove this relationship attribute from everywhere</br>Hide on FrontEnd Pages: This relationship attribute is still enabled on admin area."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:363
+msgid "Remove access restrictions on frontend"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:370
+msgid "Shows all %s to logged-in and non-logged-in users regardless of content access permissions assigned to their user role."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:402
+msgid "Frontend map settings"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:425
+msgid "Display info window on page load"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:577
+msgid "Availability"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:592
+msgid "Enable: Display this taxonomy on everywhere</br>Disable: Remove this taxonomy from everywhere</br>Hide on FrontEnd Pages: This taxonomy is still enabled on admin area. If you want to hide this taxonomy on the frontend forms go to Forms tab."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:597
+msgid "Sets the custom base slug for this taxonomy. After you update,  flush the rewrite rules by going to the Permalink Settings page."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:600
+msgid "Template"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:612
+msgid "Sets the template for the posts which belong to this taxonomy."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:621
+msgid "Hides the page navigation links on the frontend for archive posts."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:682
+msgid "All missing pages were installed successfully."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:693
+#: ./employee-directory/includes/admin/settings-functions.php:695
+msgid "Install pages"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:696
+msgid "This tool will install all the missing %s pages. Pages already defined and set up will not be replaced."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:698
+msgid "Disable EMD Templating System"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:705
+msgid "Check this if you experience theme related issues. This will disable EMD Templating System and use your themes templates instead. It will also disable all the templating related options in Entities and Taxonomies tabs. If you still experience theme related issues after checking this option, read the plugin documentation's resolving theme related issues section."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:707
+msgid "Delete all settings"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:714
+msgid "This tool will delete all settings/options data including setup assistant created plugin pages when using the \"Delete\" link on the plugins screen."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:716
+msgid "Delete all data"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:729
+msgid "This tool will delete all %s data and related taxonomies including setup assistant created plugin pages when using the \"Delete\" link on the plugins screen. As a best practice we recommend you to backup your database before selecting this option."
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:731
+msgid "Custom CSS"
+msgstr ""
+
+#: ./employee-directory/includes/admin/settings-functions.php:735
+msgid "Custom CSS allows you to add your own styles or override the default CSS of this plugin. The CSS code written here is only applied to this plugin's frontend pages."
+msgstr ""
+
+#: ./employee-directory/includes/admin/singletax/class-emd-single-taxonomy.php:144
+msgid "Most Used"
+msgstr ""
+
+#: ./employee-directory/includes/admin/singletax/class-emd-single-taxonomy.php:208
+msgid "+ %s"
+msgstr ""
+
+#: ./employee-directory/includes/admin/store-functions.php:24
+#: ./employee-directory/includes/admin/store-functions.php:47
+msgid "Browse All"
+msgstr ""
+
+#: ./employee-directory/includes/admin/store-functions.php:26
+msgid "The following plugins extend and expand the functionality of your app."
+msgstr ""
+
+#: ./employee-directory/includes/admin/store-functions.php:49
+msgid "The following <a href=\"%s\" title=\"WP App Studio Prodev\" target=\"_blank\">WP App Studio Prodev</a> plugin designs can be used as a template:"
+msgstr ""
+
+#: ./employee-directory/includes/admin/store-functions.php:51
+msgid "To customize the functionality of their corresponding plugins"
+msgstr ""
+
+#: ./employee-directory/includes/admin/store-functions.php:54
+msgid "To create your own plugin"
+msgstr ""
+
+#: ./employee-directory/includes/admin/store-functions.php:81
+msgid "There was an error retrieving the extensions list from the server. Please try again later."
+msgstr ""
+
+#: ./employee-directory/includes/admin/store-functions.php:101
+msgid "Thanks for installing %s."
+msgstr ""
+
+#: ./employee-directory/includes/admin/store-functions.php:101
+msgid "All support requests are accepted through <a href=\"%s\" target=\"_blank\">our support site.</a>"
+msgstr ""
+
+#: ./employee-directory/includes/admin/store-functions.php:126
+msgid "Like our plugin? Leave us a review"
+msgstr ""
+
+#: ./employee-directory/includes/admin/wpas-btn-functions.php:23
+msgid "Please Select"
+msgstr ""
+
+#: ./employee-directory/includes/admin/wpas-btn-functions.php:42
+msgid "Standards"
+msgstr ""
+
+#: ./employee-directory/includes/admin/wpas-btn-functions.php:59
+msgid "AutoCompletes"
+msgstr ""
+
+#: ./employee-directory/includes/admin/wpas-btn-functions.php:67
+msgid "Integrations"
+msgstr ""
+
+#: ./employee-directory/includes/admin/wpas-btn-functions.php:78
+msgid "Charts"
+msgstr ""
+
+#: ./employee-directory/includes/admin/wpas-btn-functions.php:94
+msgid "Datagrids"
+msgstr ""
+
+#: ./employee-directory/includes/admin/wpas-btn-functions.php:102
+msgid "Calendars"
+msgstr ""
+
+#: ./employee-directory/includes/admin/wpas-btn-functions.php:179
+msgid "Insert WPAS Shortcode"
+msgstr ""
+
+#: ./employee-directory/includes/admin/wpas-btn-functions.php:180
+msgid "Select a component below to insert into any Post or Page."
+msgstr ""
+
+#: ./employee-directory/includes/admin/wpas-btn-functions.php:185
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ./employee-directory/includes/admin/wpas-btn-functions.php:207
+#: ./employee-directory/includes/admin/wpas-btn-functions.php:208
+msgid "Add WPAS Shortcode"
+msgstr ""
+
+#: ./employee-directory/includes/class-emd-widget.php:132
+msgid "Title"
+msgstr ""
+
+#: ./employee-directory/includes/class-emd-widget.php:137
+msgid "%s to show"
+msgstr ""
+
+#: ./employee-directory/includes/class-emd-widget.php:138
+msgid "Max: 10"
+msgstr ""
+
+#: ./employee-directory/includes/class-emd-widget.php:209
+#: ./employee-directory/includes/class-emd-widget.php:222
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: ./employee-directory/includes/common-functions.php:348
+msgid "Author:"
+msgstr ""
+
+#: ./employee-directory/includes/common-functions.php:349
+msgid "%s \a\t %s"
+msgstr ""
+
+#: ./employee-directory/includes/entities/class-emd-entity.php:152
+msgid "%s updated. <a href=\"%s\">View %s</a>"
+msgstr ""
+
+#: ./employee-directory/includes/entities/class-emd-entity.php:153
+msgid "Custom field updated."
+msgstr ""
+
+#: ./employee-directory/includes/entities/class-emd-entity.php:154
+msgid "Custom field deleted."
+msgstr ""
+
+#: ./employee-directory/includes/entities/class-emd-entity.php:155
+msgid "%s updated."
+msgstr ""
+
+#: ./employee-directory/includes/entities/class-emd-entity.php:157
+msgid "%s restored to revision from %s"
+msgstr ""
+
+#: ./employee-directory/includes/entities/class-emd-entity.php:158
+msgid "%s published. <a href=\"%s\">View %s</a>"
+msgstr ""
+
+#: ./employee-directory/includes/entities/class-emd-entity.php:159
+msgid "%s saved."
+msgstr ""
+
+#: ./employee-directory/includes/entities/class-emd-entity.php:160
+msgid "%s submitted. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+
+#: ./employee-directory/includes/entities/class-emd-entity.php:161
+msgid "%s scheduled for: <strong>%s</strong>. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+
+#: ./employee-directory/includes/entities/class-emd-entity.php:161
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ./employee-directory/includes/entities/class-emd-entity.php:162
+msgid "%s draft updated. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+
+#: ./employee-directory/includes/entities/class-emd-entity.php:181
+msgid "Operations"
+msgstr ""
+
+#: ./employee-directory/includes/form-functions.php:826
+#: ./employee-directory/includes/form-functions.php:836
+msgid "Invalid username"
+msgstr ""
+
+#: ./employee-directory/includes/form-functions.php:831
+msgid "Username already taken"
+msgstr ""
+
+#: ./employee-directory/includes/form-functions.php:841
+msgid "Email address already taken"
+msgstr ""
+
+#: ./employee-directory/includes/form-functions.php:846
+msgid "Invalid Email"
+msgstr ""
+
+#: ./employee-directory/includes/form-functions.php:850
+msgid "Please enter a password"
+msgstr ""
+
+#: ./employee-directory/includes/form-functions.php:854
+msgid "Passwords do not match"
+msgstr ""
+
+#: ./employee-directory/includes/form-functions.php:915
+msgid "The password you entered is incorrect"
+msgstr ""
+
+#: ./employee-directory/includes/form-functions.php:919
+msgid "The username you entered does not exist"
+msgstr ""
+
+#: ./employee-directory/layouts/emd-archive.php:46
+msgid "<i class=\"fa fa-angle-left\"></i> Previous"
+msgstr ""
+
+#: ./employee-directory/layouts/emd-archive.php:48
+msgid "Next <i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: ./employee-directory/layouts/emd-login.php:4
+msgid "Log into Your Account"
+msgstr ""
+
+#: ./employee-directory/layouts/emd-login.php:6
+msgid "Username or Email"
+msgstr ""
+
+#: ./employee-directory/layouts/emd-login.php:10
+msgid "Password"
+msgstr ""
+
+#: ./employee-directory/layouts/emd-login.php:14
+msgid "Remember Me"
+msgstr ""
+
+#: ./employee-directory/layouts/emd-login.php:21
+msgid "Log In"
+msgstr ""
+
+#: ./employee-directory/layouts/emd-login.php:26
+msgid "Lost Password?"
+msgstr ""
+
+#: ./employee-directory/layouts/emd-login.php:31
+msgid "Register"
+msgstr ""
+
+#: ./employee-directory/layouts/emd-register.php:6
+msgid "Username"
+msgstr ""
+
+#: ./employee-directory/layouts/emd-register.php:10
+msgid "Email"
+msgstr ""
+
+#: ./employee-directory/layouts/emd-register.php:14
+msgid "First Name"
+msgstr ""
+
+#: ./employee-directory/layouts/emd-register.php:18
+msgid "Last Name"
+msgstr ""
+
+#: ./employee-directory/layouts/emd-register.php:26
+msgid "Confirm Password"
+msgstr ""
+
+#: ./employee-directory/layouts/emd-register.php:39
+msgid "Login"
+msgstr ""
+
+#: ./employee-directory/layouts/emd-single.php:43
+msgctxt "Previous post link"
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: ./employee-directory/layouts/emd-single.php:44
+msgctxt "Next post link"
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
